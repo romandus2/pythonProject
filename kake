@@ -1,0 +1,10 @@
+import random
+import string
+
+print('lage passord program')
+
+adjektiv = ['brun','heldig', 'hvit']
+
+substantive = ['kake','ost','bannan','eple','bommul','redbull']
+
+rad = random.choise(adjekt
